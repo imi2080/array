@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define SIZE 10
 
-int main(void)
+int main3(void)
 {
 	int i, j;
 	int list[SIZE] = { 22, 66, 44, 88, 99, 55, 33, 77, 11, 8 };
@@ -20,7 +20,7 @@ int main(void)
 				printf("*");
 			printf("\n");
 		}
-		_getch();
+		getchar();
 	}
 
 	for (i = 0; i < SIZE; i++) {
