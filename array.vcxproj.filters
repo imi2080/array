@@ -21,5 +21,8 @@
     <ClCompile Include="min.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

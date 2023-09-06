@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define SIZE 10
 
-int main(void)
+int main2(void)
 {
 	int prices[SIZE] = { 14, 56, 87, 34, 39, 92, 28, 2, 67, 21 };
 	int i, min;
