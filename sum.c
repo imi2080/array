@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define SIZE 5
-int main(void)
+int main1(void)
 {
 	int scores[SIZE] = { 11, 22, 33, 44, 55 };
 	int i;
